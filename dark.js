@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         GPTChat SoftTone
+// @name         ChatGPT SoftTone
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Change the text color of specified elements
