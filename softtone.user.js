@@ -15,7 +15,7 @@
     "#__next > div.relative.z-0.flex.h-full.w-full.overflow-hidden";
   const CODE_ELEMENTS_SELECTOR =
     "code.hljs, code[class*=language-], pre[class*=language-]";
-  const TEXT_COLOR_TO_APPLY = "rgba(220, 220, 220, 0.9)";
+  const TEXT_COLOR_TO_APPLY = "rgba(230, 230, 230, 0.9)";
 
   // Function to set text color
   function setTextColor(element, isCodeBlock) {
