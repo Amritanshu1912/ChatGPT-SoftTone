@@ -10,7 +10,7 @@ Enhance your GPT Chat experience with SoftTone - a Tampermonkey script that adds
 ## Installation
 
 1. Install the [Tampermonkey](https://tampermonkey.net/) extension for your browser.
-2. Click [here](https://github.com/Amritanshu1912/ChatGPT-SoftTone/blob/main/softtone.user.js) to install the SoftTone script.
+2. Click [here](https://raw.githubusercontent.com/Amritanshu1912/ChatGPT-SoftTone/main/softtone.user.js) to install the SoftTone script.
 
 ## How It Works
 
